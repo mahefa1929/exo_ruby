@@ -1,4 +1,5 @@
 les  exercices ruby avec chaque explication
+lien de production pyramide:https://github.com/mahefa1929/exo_ruby/blob/master/pyramide.rb
 exo_03.rb : la ligne 2 devient un commentaire
 exo_04.rb : il affiche une erreur car manque le " fermant le string
 exo_05.rb : #{}: fait une opération dans une chaîne de caractère
